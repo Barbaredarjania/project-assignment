@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "Vepkhistkaosani",
+        "author": "Shota Rustaveli",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 2,
+        "title": "Data Tutashkhia",
+        "author": "Otar Chiladze",
+        "rate": 5,
+        "status": "to-read"
+    },
+    {
+        "id": 3,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "rate": 4,
+        "status": "reading"
+    },
+    {
+        "id": 4,
+        "title": "Thirteenth Labour",
+        "author": "Mikheil Javakhishvili",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 5,
+        "title": "Me, Grandmother, Iliko and Ilarion",
+        "author": "Nodar Dumbadze",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 6,
+        "title": "The Little Prince",
+        "author": "Antoine de Saint-Exupery",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 7,
+        "title": "The Master and Margarita",
+        "author": "Mikhail Bulgakov",
+        "rate": 5,
+        "status": "to-read"
+    },
+    {
+        "id": 8,
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "rate": 4,
+        "status": "reading"
+    },
+    {
+        "id": 9,
+        "title": "Alchemist",
+        "author": "Paulo Coelho",
+        "rate": 4,
+        "status": "read"
+    },
+    {
+        "id": 10,
+        "title": "Don Quixote",
+        "author": "Miguel de Cervantes",
+        "rate": 4,
+        "status": "to-read"
+    },
+    {
+        "id": 11,
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 12,
+        "title": "Kvarkvare Tutaberi",
+        "author": "Polikarpe Kakabadze",
+        "rate": 4,
+        "status": "reading"
+    },
+    {
+        "id": 13,
+        "title": "1984",
+        "author": "George Orwell",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 14,
+        "title": "A Knight in the Panther's Skin (abridged)",
+        "author": "Shota Rustaveli",
+        "rate": 5,
+        "status": "reading"
+    },
+    {
+        "id": 15,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "rate": 4,
+        "status": "to-read"
+    },
+    {
+        "id": 16,
+        "title": "The Cherry Orchard",
+        "author": "Anton Chekhov",
+        "rate": 4,
+        "status": "read"
+    },
+    {
+        "id": 17,
+        "title": "Bride of the Chief",
+        "author": "Goderdzi Chokheli",
+        "rate": 5,
+        "status": "read"
+    },
+    {
+        "id": 18,
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "rate": 5,
+        "status": "reading"
+    },
+    {
+        "id": 19,
+        "title": "Faust",
+        "author": "Johann Wolfgang von Goethe",
+        "rate": 5,
+        "status": "to-read"
+    },
+    {
+        "id": 20,
+        "title": "The Lion, the Witch and the Wardrobe",
+        "author": "C.S. Lewis",
+        "rate": 4,
+        "status": "read"
+    }
+]
