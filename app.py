@@ -59,7 +59,7 @@ def add_new_book():
     if not books:
         new_id = 1
     else:
-        new_id = max([book['id'] for book in books]) + 1
+        new_id = max([int(book['id']) for book in books]) + 1
 
     new_book_data['id'] = new_id
 
@@ -132,4 +132,5 @@ def get_to_read_books():
 
 
 if __name__ == '__main__':
+
     app.run(debug=True)
